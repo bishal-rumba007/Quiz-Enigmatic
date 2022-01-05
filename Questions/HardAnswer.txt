@@ -1,0 +1,10 @@
+a) 8 bit b) 16 bit c) 32 bit d) 64 bit
+a) " " b) ' ' c) null d) not defined
+a) true b) false c) null d) not defined
+a) 1989 b) 1996 c) 1972 d) 1955
+a) static b) try c) integer d) new
+a) a program b) an algorithm c) a data container d) anything
+a) Compilation error b) Runtime error c) num being 6.7 d) num being 6
+a) Tim Ritchey b) James Gosling c) Ian Sheeler d) Jim LeValley
+a) switch b) public c) void d) all of them
+a) Encapsulation b) Inheritance c) Polymorphism d) All of these

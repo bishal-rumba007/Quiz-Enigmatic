@@ -1,0 +1,23 @@
+
+ Participant name: BISAL
+ Semester: Second
+ Section: A
+ Contact no.: 98211115674
+
+ Round 1
+ Correct answers = 3
+ Incorrect answers = 7
+ Total score in round 1: 30
+
+ Round 2
+ Correct answers = 5
+ Incorrect answers = 5
+ Total score in round 2: 25
+
+ Round 3
+ Correct answers = 1
+ Incorrect answers = 9
+ Total score in round 3: -70
+
+ Your total points from all the round is : -15
+
